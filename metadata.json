@@ -1,0 +1,6 @@
+{
+  "name": "Elm Wealth Coin Toss Challenge",
+  "description": "Интерактивный симулятор эксперимента Elm Wealth: ставка на монету 60/40, стартовый капитал $25, 30 минут и встроенная автоматизация стратегий на Python.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
